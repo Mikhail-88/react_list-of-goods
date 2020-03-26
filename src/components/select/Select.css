@@ -1,0 +1,10 @@
+.select {
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  background: linear-gradient(60deg, rgba(111,199,234,1) 0%,
+  rgba(55,184,203,1) 100%);
+  outline: none;
+  font-weight: bold;
+}
